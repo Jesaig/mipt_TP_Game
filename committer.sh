@@ -1,6 +1,6 @@
 git init
 git add *
-git remove goodbye
+git reset goodbye
 git commit -m "commited by dumb committer"
 git push -u origin master
 

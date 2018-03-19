@@ -6,3 +6,5 @@
 После этого происходит распределение по преподавателям в зависимости от уровня везения студенту попадает Easy, Middle или, соответственно, Hard (соответствующие методы getEasyProfessor(), getMiddleProfessor(), getHardProfessor() класса MathanFactory, AlgeomFactory, DMathFacrtory в зависимости от выбранного предмета).
 
 Все юниты преподавателей - наследники публичного класса `Professor`.
+
+https://github.com/Jesaig/mipt_TP/blob/master/game_EXAM.cpp

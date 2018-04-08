@@ -7,4 +7,3 @@
 
 Все юниты преподавателей - наследники публичного класса `Professor`.
 
-https://github.com/Jesaig/mipt_TP/blob/master/game_EXAM.cpp

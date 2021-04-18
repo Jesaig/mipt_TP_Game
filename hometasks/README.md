@@ -1,4 +1,4 @@
-# Домашние задания по курсу "Технологии программирования" в МФТИ
+# Homeworks of course "Technologies of programming" in MIPT
 
 * [LLVM decoder](https://github.com/Jesaig/mipt_TP_HW/blob/master/LLVM_decode.cpp)
 * [Singletone pattern](https://github.com/Jesaig/mipt_TP_HW/blob/master/Singletone.cpp)

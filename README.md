@@ -1,4 +1,4 @@
-# Homeworks of course "Technologies of programming" in MIPT
+# Homeworks of the course "Technologies of programming" in MIPT
 
 - [Game exam](https://github.com/Jesaig/technologies-of-programming-mipt/tree/master/GameExam)
 

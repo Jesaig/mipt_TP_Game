@@ -1,9 +1,10 @@
-# Игра "Экзамен"
-В игре присутствует два типа различных юнитов: студенты и преподаватели.
+# Game "Exam"
 
-Игрок играет за студента, который в начале игры выбирает предмет (создается конкретная фабрика, наследник класса `Factory`), потом проходит тесты на определения своего уровня знаний.
+There are 2 different types of units: students and teachers.
 
-После этого происходит распределение по преподавателям в зависимости от уровня везения студенту попадает Easy, Middle или, соответственно, Hard (соответствующие методы getEasyProfessor(), getMiddleProfessor(), getHardProfessor() класса MathanFactory, AlgeomFactory, DMathFacrtory в зависимости от выбранного предмета).
+Gamer plays as a student and in the beginning of the game he chooses a subject in which he will pass tests to determine the level of his knowledge. 
 
-Все юниты преподавателей - наследники публичного класса `Professor`.
-
+After that, there is a distribution among the professors, depending on the level of luck of the student. There are 3 different modes of the exam depending on the examiner:
+- easy;
+- middle;
+- hard
